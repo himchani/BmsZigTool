@@ -1,0 +1,74 @@
+d:\Work\BMSZig\BMSApps\BMSMonitor\bin\Debug\BMSMonitor.exe
+d:\Work\BMSZig\BMSApps\BMSMonitor\bin\Debug\BMSMonitor.pdb
+d:\Work\BMSZig\BMSApps\BMSMonitor\bin\Debug\MySql.Data.dll
+d:\Work\BMSZig\BMSApps\BMSMonitor\bin\Debug\MySql.Data.Entity.dll
+d:\Work\BMSZig\BMSApps\BMSMonitor\bin\Debug\ScannerLib.dll
+d:\Work\BMSZig\BMSApps\BMSMonitor\obj\x86\Debug\BMSMonitor.asControl.resources
+d:\Work\BMSZig\BMSApps\BMSMonitor\obj\x86\Debug\BMSMonitor.asFrm.resources
+d:\Work\BMSZig\BMSApps\BMSMonitor\obj\x86\Debug\BMSMonitor.barcodeFrm.resources
+d:\Work\BMSZig\BMSApps\BMSMonitor\obj\x86\Debug\BMSMonitor.datetimeFrm.resources
+d:\Work\BMSZig\BMSApps\BMSMonitor\obj\x86\Debug\BMSMonitor.detailFrm.resources
+d:\Work\BMSZig\BMSApps\BMSMonitor\obj\x86\Debug\BMSMonitor.MainFrm.resources
+d:\Work\BMSZig\BMSApps\BMSMonitor\obj\x86\Debug\BMSMonitor.inquiryControl.resources
+d:\Work\BMSZig\BMSApps\BMSMonitor\obj\x86\Debug\BMSMonitor.mainControl.resources
+d:\Work\BMSZig\BMSApps\BMSMonitor\obj\x86\Debug\BMSMonitor.memoFrm.resources
+d:\Work\BMSZig\BMSApps\BMSMonitor\obj\x86\Debug\BMSMonitor.Properties.Resources.resources
+d:\Work\BMSZig\BMSApps\BMSMonitor\obj\x86\Debug\BMSMonitor.releaseControl.resources
+d:\Work\BMSZig\BMSApps\BMSMonitor\obj\x86\Debug\BMSMonitor.setupControl.resources
+d:\Work\BMSZig\BMSApps\BMSMonitor\obj\x86\Debug\BMSMonitor.waitFrm.resources
+d:\Work\BMSZig\BMSApps\BMSMonitor\obj\x86\Debug\BMSMonitor.csproj.GenerateResource.Cache
+d:\Work\BMSZig\BMSApps\BMSMonitor\obj\x86\Debug\BMSMonitor.exe
+d:\Work\BMSZig\BMSApps\BMSMonitor\obj\x86\Debug\BMSMonitor.pdb
+d:\Work\BMSZig\BMSApps\BMSMonitor\bin\Debug\Interop.CoreScanner.dll
+d:\Work\BMSZig\BMSApps\BMSMonitor\bin\Debug\ScannerLib.pdb
+d:\Work\BMSZig\BMSApps\BMSMonitor\obj\x86\Debug\BMSMonitor.csprojResolveAssemblyReference.cache
+C:\Users\abc\Desktop\20181221\BMSApps\BMSMonitor\bin\Debug\BMSMonitor.exe
+C:\Users\abc\Desktop\20181221\BMSApps\BMSMonitor\bin\Debug\BMSMonitor.pdb
+C:\Users\abc\Desktop\20181221\BMSApps\BMSMonitor\bin\Debug\MySql.Data.dll
+C:\Users\abc\Desktop\20181221\BMSApps\BMSMonitor\bin\Debug\MySql.Data.Entity.dll
+C:\Users\abc\Desktop\20181221\BMSApps\BMSMonitor\bin\Debug\Interop.CoreScanner.dll
+C:\Users\abc\Desktop\20181221\BMSApps\BMSMonitor\bin\Debug\ScannerLib.pdb
+C:\Users\abc\Desktop\20181221\BMSApps\BMSMonitor\obj\x86\Debug\BMSMonitor.csprojAssemblyReference.cache
+C:\Users\abc\Desktop\20181221\BMSApps\BMSMonitor\obj\x86\Debug\BMSMonitor.asControl.resources
+C:\Users\abc\Desktop\20181221\BMSApps\BMSMonitor\obj\x86\Debug\BMSMonitor.asFrm.resources
+C:\Users\abc\Desktop\20181221\BMSApps\BMSMonitor\obj\x86\Debug\BMSMonitor.barcodeFrm.resources
+C:\Users\abc\Desktop\20181221\BMSApps\BMSMonitor\obj\x86\Debug\BMSMonitor.datetimeFrm.resources
+C:\Users\abc\Desktop\20181221\BMSApps\BMSMonitor\obj\x86\Debug\BMSMonitor.detailFrm.resources
+C:\Users\abc\Desktop\20181221\BMSApps\BMSMonitor\obj\x86\Debug\BMSMonitor.MainFrm.resources
+C:\Users\abc\Desktop\20181221\BMSApps\BMSMonitor\obj\x86\Debug\BMSMonitor.inquiryControl.resources
+C:\Users\abc\Desktop\20181221\BMSApps\BMSMonitor\obj\x86\Debug\BMSMonitor.mainControl.resources
+C:\Users\abc\Desktop\20181221\BMSApps\BMSMonitor\obj\x86\Debug\BMSMonitor.memoFrm.resources
+C:\Users\abc\Desktop\20181221\BMSApps\BMSMonitor\obj\x86\Debug\BMSMonitor.Properties.Resources.resources
+C:\Users\abc\Desktop\20181221\BMSApps\BMSMonitor\obj\x86\Debug\BMSMonitor.releaseControl.resources
+C:\Users\abc\Desktop\20181221\BMSApps\BMSMonitor\obj\x86\Debug\BMSMonitor.setupControl.resources
+C:\Users\abc\Desktop\20181221\BMSApps\BMSMonitor\obj\x86\Debug\BMSMonitor.waitFrm.resources
+C:\Users\abc\Desktop\20181221\BMSApps\BMSMonitor\obj\x86\Debug\BMSMonitor.csproj.GenerateResource.cache
+C:\Users\abc\Desktop\20181221\BMSApps\BMSMonitor\obj\x86\Debug\BMSMonitor.csproj.CoreCompileInputs.cache
+C:\Users\abc\Desktop\20181221\BMSApps\BMSMonitor\obj\x86\Debug\BMSMonitor.csproj.CopyComplete
+C:\Users\abc\Desktop\20181221\BMSApps\BMSMonitor\obj\x86\Debug\BMSMonitor.exe
+C:\Users\abc\Desktop\20181221\BMSApps\BMSMonitor\obj\x86\Debug\BMSMonitor.pdb
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\BMSMonitor\bin\Debug\BMSMonitor.exe
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\BMSMonitor\bin\Debug\BMSMonitor.pdb
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\BMSMonitor\bin\Debug\MySql.Data.dll
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\BMSMonitor\bin\Debug\MySql.Data.Entity.dll
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\BMSMonitor\bin\Debug\Interop.CoreScanner.dll
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\BMSMonitor\bin\Debug\ScannerLib.pdb
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\BMSMonitor\obj\x86\Debug\BMSMonitor.csprojAssemblyReference.cache
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\BMSMonitor\obj\x86\Debug\BMSMonitor.asControl.resources
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\BMSMonitor\obj\x86\Debug\BMSMonitor.asFrm.resources
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\BMSMonitor\obj\x86\Debug\BMSMonitor.barcodeFrm.resources
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\BMSMonitor\obj\x86\Debug\BMSMonitor.datetimeFrm.resources
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\BMSMonitor\obj\x86\Debug\BMSMonitor.detailFrm.resources
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\BMSMonitor\obj\x86\Debug\BMSMonitor.MainFrm.resources
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\BMSMonitor\obj\x86\Debug\BMSMonitor.inquiryControl.resources
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\BMSMonitor\obj\x86\Debug\BMSMonitor.mainControl.resources
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\BMSMonitor\obj\x86\Debug\BMSMonitor.memoFrm.resources
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\BMSMonitor\obj\x86\Debug\BMSMonitor.Properties.Resources.resources
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\BMSMonitor\obj\x86\Debug\BMSMonitor.releaseControl.resources
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\BMSMonitor\obj\x86\Debug\BMSMonitor.setupControl.resources
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\BMSMonitor\obj\x86\Debug\BMSMonitor.waitFrm.resources
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\BMSMonitor\obj\x86\Debug\BMSMonitor.csproj.GenerateResource.cache
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\BMSMonitor\obj\x86\Debug\BMSMonitor.csproj.CoreCompileInputs.cache
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\BMSMonitor\obj\x86\Debug\BMSMonitor.csproj.CopyComplete
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\BMSMonitor\obj\x86\Debug\BMSMonitor.exe
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\BMSMonitor\obj\x86\Debug\BMSMonitor.pdb
