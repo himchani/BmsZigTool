@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{66F411AB-0EB8-44DA-ACFB-5FE153172ACD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BMSMonitor</RootNamespace>
+    <AssemblyName>BMSMonitor</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>bms_wM4_1.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data">
+      <HintPath>dll\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data.Entity">
+      <HintPath>dll\MySql.Data.Entity.dll</HintPath>
+    </Reference>
+    <Reference Include="ScannerLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\ScannerLib\bin\Debug\ScannerLib.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="asControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="asControl.Designer.cs">
+      <DependentUpon>asControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="asFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="asFrm.Designer.cs">
+      <DependentUpon>asFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="barcodeFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="barcodeFrm.Designer.cs">
+      <DependentUpon>barcodeFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="datetimeFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="datetimeFrm.Designer.cs">
+      <DependentUpon>datetimeFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="detailFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="detailFrm.Designer.cs">
+      <DependentUpon>detailFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainFrm.Designer.cs">
+      <DependentUpon>MainFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="inquiryControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="inquiryControl.Designer.cs">
+      <DependentUpon>inquiryControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mainControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="mainControl.Designer.cs">
+      <DependentUpon>mainControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="memoFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="memoFrm.Designer.cs">
+      <DependentUpon>memoFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="releaseControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="releaseControl.Designer.cs">
+      <DependentUpon>releaseControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="server.cs" />
+    <Compile Include="setupControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="setupControl.Designer.cs">
+      <DependentUpon>setupControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utils\encrypt.cs" />
+    <Compile Include="Utils\IniManager.cs" />
+    <Compile Include="waitFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="waitFrm.Designer.cs">
+      <DependentUpon>waitFrm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="asControl.resx">
+      <DependentUpon>asControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="asFrm.resx">
+      <DependentUpon>asFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="barcodeFrm.resx">
+      <DependentUpon>barcodeFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="datetimeFrm.resx">
+      <DependentUpon>datetimeFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="detailFrm.resx">
+      <DependentUpon>detailFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainFrm.resx">
+      <DependentUpon>MainFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="inquiryControl.resx">
+      <DependentUpon>inquiryControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mainControl.resx">
+      <DependentUpon>mainControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="memoFrm.resx">
+      <DependentUpon>memoFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="releaseControl.resx">
+      <DependentUpon>releaseControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="setupControl.resx">
+      <DependentUpon>setupControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="waitFrm.resx">
+      <DependentUpon>waitFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="bms_wM4_1.ico" />
+    <Content Include="img\1333.png_1200.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
