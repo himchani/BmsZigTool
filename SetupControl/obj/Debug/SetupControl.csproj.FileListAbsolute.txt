@@ -1,0 +1,6 @@
+D:\Work\BMSZig\BMSApps\SetupControl\bin\Debug\SetupControl.dll
+D:\Work\BMSZig\BMSApps\SetupControl\bin\Debug\SetupControl.pdb
+D:\Work\BMSZig\BMSApps\SetupControl\obj\Debug\SetupControl.UserControl1.resources
+D:\Work\BMSZig\BMSApps\SetupControl\obj\Debug\SetupControl.csproj.GenerateResource.Cache
+D:\Work\BMSZig\BMSApps\SetupControl\obj\Debug\SetupControl.dll
+D:\Work\BMSZig\BMSApps\SetupControl\obj\Debug\SetupControl.pdb
