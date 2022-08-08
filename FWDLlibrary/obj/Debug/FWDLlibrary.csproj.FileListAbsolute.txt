@@ -1,0 +1,29 @@
+D:\Work\BMSZig\BMSApps\FWDLlibrary\bin\Debug\FWDLlibrary.dll
+D:\Work\BMSZig\BMSApps\FWDLlibrary\bin\Debug\FWDLlibrary.pdb
+D:\Work\BMSZig\BMSApps\FWDLlibrary\obj\Debug\FWDLlibrary.dll
+D:\Work\BMSZig\BMSApps\FWDLlibrary\obj\Debug\FWDLlibrary.pdb
+d:\Work\BMSZig\BMSApps\FWDLlibrary\obj\Debug\FWDLlibrary.csprojResolveAssemblyReference.cache
+C:\Users\Moon\Qsync\200_진행파일\BMS 양산 지그\Software\20181221\BMSApps\FWDLlibrary\bin\Debug\FWDLlibrary.dll
+C:\Users\Moon\Qsync\200_진행파일\BMS 양산 지그\Software\20181221\BMSApps\FWDLlibrary\bin\Debug\FWDLlibrary.pdb
+C:\Users\Moon\Qsync\200_진행파일\BMS 양산 지그\Software\20181221\BMSApps\FWDLlibrary\obj\Debug\FWDLlibrary.csprojAssemblyReference.cache
+C:\Users\Moon\Qsync\200_진행파일\BMS 양산 지그\Software\20181221\BMSApps\FWDLlibrary\obj\Debug\FWDLlibrary.csproj.CoreCompileInputs.cache
+C:\Users\Moon\Qsync\200_진행파일\BMS 양산 지그\Software\20181221\BMSApps\FWDLlibrary\obj\Debug\FWDLlibrary.dll
+C:\Users\Moon\Qsync\200_진행파일\BMS 양산 지그\Software\20181221\BMSApps\FWDLlibrary\obj\Debug\FWDLlibrary.pdb
+C:\Users\abc\Desktop\20181221\BMSApps\FWDLlibrary\bin\Debug\FWDLlibrary.dll
+C:\Users\abc\Desktop\20181221\BMSApps\FWDLlibrary\bin\Debug\FWDLlibrary.pdb
+C:\Users\abc\Desktop\20181221\BMSApps\FWDLlibrary\obj\Debug\FWDLlibrary.csproj.CoreCompileInputs.cache
+C:\Users\abc\Desktop\20181221\BMSApps\FWDLlibrary\obj\Debug\FWDLlibrary.dll
+C:\Users\abc\Desktop\20181221\BMSApps\FWDLlibrary\obj\Debug\FWDLlibrary.pdb
+C:\Users\abc\Desktop\20181221\BMSApps\FWDLlibrary\obj\Debug\FWDLlibrary.csprojAssemblyReference.cache
+C:\Users\abc\Desktop\20200429 (2)\BMSApps\FWDLlibrary\bin\Debug\FWDLlibrary.dll
+C:\Users\abc\Desktop\20200429 (2)\BMSApps\FWDLlibrary\bin\Debug\FWDLlibrary.pdb
+C:\Users\abc\Desktop\20200429 (2)\BMSApps\FWDLlibrary\obj\Debug\FWDLlibrary.csprojAssemblyReference.cache
+C:\Users\abc\Desktop\20200429 (2)\BMSApps\FWDLlibrary\obj\Debug\FWDLlibrary.csproj.CoreCompileInputs.cache
+C:\Users\abc\Desktop\20200429 (2)\BMSApps\FWDLlibrary\obj\Debug\FWDLlibrary.dll
+C:\Users\abc\Desktop\20200429 (2)\BMSApps\FWDLlibrary\obj\Debug\FWDLlibrary.pdb
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\FWDLlibrary\bin\Debug\FWDLlibrary.dll
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\FWDLlibrary\bin\Debug\FWDLlibrary.pdb
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\FWDLlibrary\obj\Debug\FWDLlibrary.csprojAssemblyReference.cache
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\FWDLlibrary\obj\Debug\FWDLlibrary.csproj.CoreCompileInputs.cache
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\FWDLlibrary\obj\Debug\FWDLlibrary.dll
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\FWDLlibrary\obj\Debug\FWDLlibrary.pdb

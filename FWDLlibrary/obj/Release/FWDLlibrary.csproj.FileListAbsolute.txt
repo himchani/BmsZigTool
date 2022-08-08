@@ -1,0 +1,22 @@
+D:\Work\BMSZig\BMSApps\FWDLlibrary\bin\Release\FWDLlibrary.dll
+D:\Work\BMSZig\BMSApps\FWDLlibrary\bin\Release\FWDLlibrary.pdb
+D:\Work\BMSZig\BMSApps\FWDLlibrary\obj\Release\FWDLlibrary.dll
+D:\Work\BMSZig\BMSApps\FWDLlibrary\obj\Release\FWDLlibrary.pdb
+C:\Users\abc\Desktop\20181221\BMSApps\FWDLlibrary\bin\Release\FWDLlibrary.dll
+C:\Users\abc\Desktop\20181221\BMSApps\FWDLlibrary\bin\Release\FWDLlibrary.pdb
+C:\Users\abc\Desktop\20181221\BMSApps\FWDLlibrary\obj\Release\FWDLlibrary.csprojAssemblyReference.cache
+C:\Users\abc\Desktop\20181221\BMSApps\FWDLlibrary\obj\Release\FWDLlibrary.csproj.CoreCompileInputs.cache
+C:\Users\abc\Desktop\20181221\BMSApps\FWDLlibrary\obj\Release\FWDLlibrary.dll
+C:\Users\abc\Desktop\20181221\BMSApps\FWDLlibrary\obj\Release\FWDLlibrary.pdb
+C:\Users\abc\Desktop\20200429 (2)\BMSApps\FWDLlibrary\bin\Release\FWDLlibrary.dll
+C:\Users\abc\Desktop\20200429 (2)\BMSApps\FWDLlibrary\bin\Release\FWDLlibrary.pdb
+C:\Users\abc\Desktop\20200429 (2)\BMSApps\FWDLlibrary\obj\Release\FWDLlibrary.csprojAssemblyReference.cache
+C:\Users\abc\Desktop\20200429 (2)\BMSApps\FWDLlibrary\obj\Release\FWDLlibrary.csproj.CoreCompileInputs.cache
+C:\Users\abc\Desktop\20200429 (2)\BMSApps\FWDLlibrary\obj\Release\FWDLlibrary.dll
+C:\Users\abc\Desktop\20200429 (2)\BMSApps\FWDLlibrary\obj\Release\FWDLlibrary.pdb
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\FWDLlibrary\bin\Release\FWDLlibrary.dll
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\FWDLlibrary\bin\Release\FWDLlibrary.pdb
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\FWDLlibrary\obj\Release\FWDLlibrary.csprojAssemblyReference.cache
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\FWDLlibrary\obj\Release\FWDLlibrary.csproj.CoreCompileInputs.cache
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\FWDLlibrary\obj\Release\FWDLlibrary.dll
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\FWDLlibrary\obj\Release\FWDLlibrary.pdb
