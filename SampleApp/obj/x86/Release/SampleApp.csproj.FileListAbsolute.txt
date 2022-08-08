@@ -1,0 +1,68 @@
+D:\Work\BMSZig\BMSApps\SampleApp\bin\Release\SampleApp.exe
+D:\Work\BMSZig\BMSApps\SampleApp\bin\Release\SampleApp.pdb
+D:\Work\BMSZig\BMSApps\SampleApp\bin\Release\FWDLlibrary.dll
+D:\Work\BMSZig\BMSApps\SampleApp\bin\Release\FWDLlibrary.pdb
+D:\Work\BMSZig\BMSApps\SampleApp\obj\x86\Release\SampleApp.csprojResolveAssemblyReference.cache
+D:\Work\BMSZig\BMSApps\SampleApp\obj\x86\Release\SampleApp.MainFrm.resources
+D:\Work\BMSZig\BMSApps\SampleApp\obj\x86\Release\SampleApp.Properties.Resources.resources
+D:\Work\BMSZig\BMSApps\SampleApp\obj\x86\Release\SampleApp.csproj.GenerateResource.Cache
+D:\Work\BMSZig\BMSApps\SampleApp\obj\x86\Release\SampleApp.exe
+D:\Work\BMSZig\BMSApps\SampleApp\obj\x86\Release\SampleApp.pdb
+C:\Users\abc\Desktop\20181221\BMSApps\SampleApp\bin\Release\SampleApp.exe
+C:\Users\abc\Desktop\20181221\BMSApps\SampleApp\bin\Release\SampleApp.pdb
+C:\Users\abc\Desktop\20181221\BMSApps\SampleApp\bin\Release\Automation.BDaq4.dll
+C:\Users\abc\Desktop\20181221\BMSApps\SampleApp\bin\Release\FWDLlibrary.dll
+C:\Users\abc\Desktop\20181221\BMSApps\SampleApp\bin\Release\MySql.Data.dll
+C:\Users\abc\Desktop\20181221\BMSApps\SampleApp\bin\Release\MySql.Data.Entity.dll
+C:\Users\abc\Desktop\20181221\BMSApps\SampleApp\bin\Release\ScannerLib.dll
+C:\Users\abc\Desktop\20181221\BMSApps\SampleApp\bin\Release\Interop.CoreScanner.dll
+C:\Users\abc\Desktop\20181221\BMSApps\SampleApp\bin\Release\FWDLlibrary.pdb
+C:\Users\abc\Desktop\20181221\BMSApps\SampleApp\obj\x86\Release\SampleApp.csprojAssemblyReference.cache
+C:\Users\abc\Desktop\20181221\BMSApps\SampleApp\obj\x86\Release\SampleApp.Main.resources
+C:\Users\abc\Desktop\20181221\BMSApps\SampleApp\obj\x86\Release\SampleApp.Properties.Resources.resources
+C:\Users\abc\Desktop\20181221\BMSApps\SampleApp\obj\x86\Release\SampleApp.csproj.GenerateResource.cache
+C:\Users\abc\Desktop\20181221\BMSApps\SampleApp\obj\x86\Release\SampleApp.csproj.CoreCompileInputs.cache
+C:\Users\abc\Desktop\20181221\BMSApps\SampleApp\obj\x86\Release\SampleApp.csproj.CopyComplete
+C:\Users\abc\Desktop\20181221\BMSApps\SampleApp\obj\x86\Release\SampleApp.exe
+C:\Users\abc\Desktop\20181221\BMSApps\SampleApp\obj\x86\Release\SampleApp.pdb
+C:\Users\abc\Desktop\20181221\BMSApps\SampleApp\bin\Release\Owf.Controls.DigitalDisplayControl.dll
+C:\Users\abc\Desktop\20181221\BMSApps\SampleApp\bin\Release\Owf.Controls.DigitalDisplayControl.pdb
+C:\Users\abc\Desktop\20200429 (2)\BMSApps\SampleApp\bin\Release\SampleApp.exe
+C:\Users\abc\Desktop\20200429 (2)\BMSApps\SampleApp\bin\Release\SampleApp.pdb
+C:\Users\abc\Desktop\20200429 (2)\BMSApps\SampleApp\bin\Release\Automation.BDaq4.dll
+C:\Users\abc\Desktop\20200429 (2)\BMSApps\SampleApp\bin\Release\FWDLlibrary.dll
+C:\Users\abc\Desktop\20200429 (2)\BMSApps\SampleApp\bin\Release\MySql.Data.dll
+C:\Users\abc\Desktop\20200429 (2)\BMSApps\SampleApp\bin\Release\MySql.Data.Entity.dll
+C:\Users\abc\Desktop\20200429 (2)\BMSApps\SampleApp\bin\Release\Owf.Controls.DigitalDisplayControl.dll
+C:\Users\abc\Desktop\20200429 (2)\BMSApps\SampleApp\bin\Release\ScannerLib.dll
+C:\Users\abc\Desktop\20200429 (2)\BMSApps\SampleApp\bin\Release\Interop.CoreScanner.dll
+C:\Users\abc\Desktop\20200429 (2)\BMSApps\SampleApp\bin\Release\FWDLlibrary.pdb
+C:\Users\abc\Desktop\20200429 (2)\BMSApps\SampleApp\bin\Release\Owf.Controls.DigitalDisplayControl.pdb
+C:\Users\abc\Desktop\20200429 (2)\BMSApps\SampleApp\obj\x86\Release\SampleApp.csprojAssemblyReference.cache
+C:\Users\abc\Desktop\20200429 (2)\BMSApps\SampleApp\obj\x86\Release\SampleApp.Main.resources
+C:\Users\abc\Desktop\20200429 (2)\BMSApps\SampleApp\obj\x86\Release\SampleApp.Properties.Resources.resources
+C:\Users\abc\Desktop\20200429 (2)\BMSApps\SampleApp\obj\x86\Release\SampleApp.csproj.GenerateResource.cache
+C:\Users\abc\Desktop\20200429 (2)\BMSApps\SampleApp\obj\x86\Release\SampleApp.csproj.CoreCompileInputs.cache
+C:\Users\abc\Desktop\20200429 (2)\BMSApps\SampleApp\obj\x86\Release\SampleApp.csproj.CopyComplete
+C:\Users\abc\Desktop\20200429 (2)\BMSApps\SampleApp\obj\x86\Release\SampleApp.exe
+C:\Users\abc\Desktop\20200429 (2)\BMSApps\SampleApp\obj\x86\Release\SampleApp.pdb
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\SampleApp\bin\Release\SampleApp.exe
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\SampleApp\bin\Release\SampleApp.pdb
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\SampleApp\bin\Release\Automation.BDaq4.dll
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\SampleApp\bin\Release\FWDLlibrary.dll
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\SampleApp\bin\Release\MySql.Data.dll
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\SampleApp\bin\Release\MySql.Data.Entity.dll
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\SampleApp\bin\Release\Owf.Controls.DigitalDisplayControl.dll
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\SampleApp\bin\Release\ScannerLib.dll
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\SampleApp\bin\Release\Interop.CoreScanner.dll
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\SampleApp\bin\Release\FWDLlibrary.pdb
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\SampleApp\bin\Release\Owf.Controls.DigitalDisplayControl.pdb
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\SampleApp\obj\x86\Release\SampleApp.csprojAssemblyReference.cache
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\SampleApp\obj\x86\Release\SampleApp.csproj.ResolveComReference.cache
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\SampleApp\obj\x86\Release\SampleApp.Main.resources
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\SampleApp\obj\x86\Release\SampleApp.Properties.Resources.resources
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\SampleApp\obj\x86\Release\SampleApp.csproj.GenerateResource.cache
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\SampleApp\obj\x86\Release\SampleApp.csproj.CoreCompileInputs.cache
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\SampleApp\obj\x86\Release\SampleApp.csproj.CopyComplete
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\SampleApp\obj\x86\Release\SampleApp.exe
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\SampleApp\obj\x86\Release\SampleApp.pdb

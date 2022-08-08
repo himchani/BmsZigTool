@@ -1,0 +1,79 @@
+D:\Work\BMSZig\BMSApps\SampleApp\bin\Debug\SampleApp.exe
+D:\Work\BMSZig\BMSApps\SampleApp\bin\Debug\SampleApp.pdb
+D:\Work\BMSZig\BMSApps\SampleApp\bin\Debug\FWDLlibrary.dll
+D:\Work\BMSZig\BMSApps\SampleApp\bin\Debug\FWDLlibrary.pdb
+D:\Work\BMSZig\BMSApps\SampleApp\obj\x86\Debug\SampleApp.csprojResolveAssemblyReference.cache
+D:\Work\BMSZig\BMSApps\SampleApp\obj\x86\Debug\SampleApp.Properties.Resources.resources
+D:\Work\BMSZig\BMSApps\SampleApp\obj\x86\Debug\SampleApp.csproj.GenerateResource.Cache
+D:\Work\BMSZig\BMSApps\SampleApp\obj\x86\Debug\SampleApp.exe
+D:\Work\BMSZig\BMSApps\SampleApp\obj\x86\Debug\SampleApp.pdb
+D:\Work\BMSZig\BMSApps\SampleApp\obj\x86\Debug\SampleApp.MainFrm.resources
+C:\Users\Moon\Qsync\200_진행파일\BMS 양산 지그\Software\20181221\BMSApps\SampleApp\bin\Debug\SampleApp.exe
+C:\Users\Moon\Qsync\200_진행파일\BMS 양산 지그\Software\20181221\BMSApps\SampleApp\bin\Debug\SampleApp.pdb
+C:\Users\Moon\Qsync\200_진행파일\BMS 양산 지그\Software\20181221\BMSApps\SampleApp\bin\Debug\FWDLlibrary.dll
+C:\Users\Moon\Qsync\200_진행파일\BMS 양산 지그\Software\20181221\BMSApps\SampleApp\bin\Debug\FWDLlibrary.pdb
+C:\Users\Moon\Qsync\200_진행파일\BMS 양산 지그\Software\20181221\BMSApps\SampleApp\obj\x86\Debug\SampleApp.csprojAssemblyReference.cache
+C:\Users\Moon\Qsync\200_진행파일\BMS 양산 지그\Software\20181221\BMSApps\SampleApp\obj\x86\Debug\SampleApp.MainFrm.resources
+C:\Users\Moon\Qsync\200_진행파일\BMS 양산 지그\Software\20181221\BMSApps\SampleApp\obj\x86\Debug\SampleApp.Properties.Resources.resources
+C:\Users\Moon\Qsync\200_진행파일\BMS 양산 지그\Software\20181221\BMSApps\SampleApp\obj\x86\Debug\SampleApp.csproj.GenerateResource.cache
+C:\Users\Moon\Qsync\200_진행파일\BMS 양산 지그\Software\20181221\BMSApps\SampleApp\obj\x86\Debug\SampleApp.csproj.CoreCompileInputs.cache
+C:\Users\Moon\Qsync\200_진행파일\BMS 양산 지그\Software\20181221\BMSApps\SampleApp\obj\x86\Debug\SampleApp.csproj.CopyComplete
+C:\Users\Moon\Qsync\200_진행파일\BMS 양산 지그\Software\20181221\BMSApps\SampleApp\obj\x86\Debug\SampleApp.exe
+C:\Users\Moon\Qsync\200_진행파일\BMS 양산 지그\Software\20181221\BMSApps\SampleApp\obj\x86\Debug\SampleApp.pdb
+C:\Users\abc\Desktop\20181221\BMSApps\SampleApp\bin\Debug\SampleApp.exe
+C:\Users\abc\Desktop\20181221\BMSApps\SampleApp\bin\Debug\SampleApp.pdb
+C:\Users\abc\Desktop\20181221\BMSApps\SampleApp\bin\Debug\FWDLlibrary.dll
+C:\Users\abc\Desktop\20181221\BMSApps\SampleApp\bin\Debug\FWDLlibrary.pdb
+C:\Users\abc\Desktop\20181221\BMSApps\SampleApp\obj\x86\Debug\SampleApp.csprojAssemblyReference.cache
+C:\Users\abc\Desktop\20181221\BMSApps\SampleApp\obj\x86\Debug\SampleApp.Properties.Resources.resources
+C:\Users\abc\Desktop\20181221\BMSApps\SampleApp\obj\x86\Debug\SampleApp.csproj.GenerateResource.cache
+C:\Users\abc\Desktop\20181221\BMSApps\SampleApp\obj\x86\Debug\SampleApp.csproj.CoreCompileInputs.cache
+C:\Users\abc\Desktop\20181221\BMSApps\SampleApp\obj\x86\Debug\SampleApp.csproj.CopyComplete
+C:\Users\abc\Desktop\20181221\BMSApps\SampleApp\obj\x86\Debug\SampleApp.exe
+C:\Users\abc\Desktop\20181221\BMSApps\SampleApp\obj\x86\Debug\SampleApp.pdb
+C:\Users\abc\Desktop\20181221\BMSApps\SampleApp\bin\Debug\Automation.BDaq4.dll
+C:\Users\abc\Desktop\20181221\BMSApps\SampleApp\bin\Debug\Interop.CoreScanner.dll
+C:\Users\abc\Desktop\20181221\BMSApps\SampleApp\obj\x86\Debug\SampleApp.Main.resources
+C:\Users\abc\Desktop\20181221\BMSApps\SampleApp\bin\Debug\MySql.Data.dll
+C:\Users\abc\Desktop\20181221\BMSApps\SampleApp\bin\Debug\MySql.Data.Entity.dll
+C:\Users\abc\Desktop\20181221\BMSApps\SampleApp\bin\Debug\Owf.Controls.DigitalDisplayControl.dll
+C:\Users\abc\Desktop\20181221\BMSApps\SampleApp\bin\Debug\Owf.Controls.DigitalDisplayControl.pdb
+C:\Users\abc\Desktop\20200429 (2)\BMSApps\SampleApp\bin\Debug\SampleApp.exe
+C:\Users\abc\Desktop\20200429 (2)\BMSApps\SampleApp\bin\Debug\SampleApp.pdb
+C:\Users\abc\Desktop\20200429 (2)\BMSApps\SampleApp\bin\Debug\Automation.BDaq4.dll
+C:\Users\abc\Desktop\20200429 (2)\BMSApps\SampleApp\bin\Debug\FWDLlibrary.dll
+C:\Users\abc\Desktop\20200429 (2)\BMSApps\SampleApp\bin\Debug\MySql.Data.dll
+C:\Users\abc\Desktop\20200429 (2)\BMSApps\SampleApp\bin\Debug\MySql.Data.Entity.dll
+C:\Users\abc\Desktop\20200429 (2)\BMSApps\SampleApp\bin\Debug\Owf.Controls.DigitalDisplayControl.dll
+C:\Users\abc\Desktop\20200429 (2)\BMSApps\SampleApp\bin\Debug\Interop.CoreScanner.dll
+C:\Users\abc\Desktop\20200429 (2)\BMSApps\SampleApp\bin\Debug\FWDLlibrary.pdb
+C:\Users\abc\Desktop\20200429 (2)\BMSApps\SampleApp\bin\Debug\Owf.Controls.DigitalDisplayControl.pdb
+C:\Users\abc\Desktop\20200429 (2)\BMSApps\SampleApp\obj\x86\Debug\SampleApp.csprojAssemblyReference.cache
+C:\Users\abc\Desktop\20200429 (2)\BMSApps\SampleApp\obj\x86\Debug\SampleApp.csproj.ResolveComReference.cache
+C:\Users\abc\Desktop\20200429 (2)\BMSApps\SampleApp\obj\x86\Debug\SampleApp.Main.resources
+C:\Users\abc\Desktop\20200429 (2)\BMSApps\SampleApp\obj\x86\Debug\SampleApp.Properties.Resources.resources
+C:\Users\abc\Desktop\20200429 (2)\BMSApps\SampleApp\obj\x86\Debug\SampleApp.csproj.GenerateResource.cache
+C:\Users\abc\Desktop\20200429 (2)\BMSApps\SampleApp\obj\x86\Debug\SampleApp.csproj.CoreCompileInputs.cache
+C:\Users\abc\Desktop\20200429 (2)\BMSApps\SampleApp\obj\x86\Debug\SampleApp.csproj.CopyComplete
+C:\Users\abc\Desktop\20200429 (2)\BMSApps\SampleApp\obj\x86\Debug\SampleApp.exe
+C:\Users\abc\Desktop\20200429 (2)\BMSApps\SampleApp\obj\x86\Debug\SampleApp.pdb
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\SampleApp\bin\Debug\SampleApp.exe
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\SampleApp\bin\Debug\SampleApp.pdb
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\SampleApp\bin\Debug\Automation.BDaq4.dll
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\SampleApp\bin\Debug\FWDLlibrary.dll
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\SampleApp\bin\Debug\MySql.Data.dll
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\SampleApp\bin\Debug\MySql.Data.Entity.dll
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\SampleApp\bin\Debug\Owf.Controls.DigitalDisplayControl.dll
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\SampleApp\bin\Debug\Interop.CoreScanner.dll
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\SampleApp\bin\Debug\FWDLlibrary.pdb
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\SampleApp\bin\Debug\Owf.Controls.DigitalDisplayControl.pdb
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\SampleApp\obj\x86\Debug\SampleApp.csprojAssemblyReference.cache
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\SampleApp\obj\x86\Debug\SampleApp.csproj.ResolveComReference.cache
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\SampleApp\obj\x86\Debug\SampleApp.Main.resources
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\SampleApp\obj\x86\Debug\SampleApp.Properties.Resources.resources
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\SampleApp\obj\x86\Debug\SampleApp.csproj.GenerateResource.cache
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\SampleApp\obj\x86\Debug\SampleApp.csproj.CoreCompileInputs.cache
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\SampleApp\obj\x86\Debug\SampleApp.csproj.CopyComplete
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\SampleApp\obj\x86\Debug\SampleApp.exe
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\SampleApp\obj\x86\Debug\SampleApp.pdb
+C:\Users\abc\Desktop\Zig Tool 200604\BMSApps\SampleApp\obj\x86\Debug\SampleApp.Error_form.resources
